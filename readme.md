@@ -26,11 +26,12 @@ Ich konnte zwei von meinen drei zielen abhaken. ich kahm gut voran bei beiden au
 
 
 # Grob-Planung
-05.09.23
+Für Lektion vom 05.09.23
 
 ## Leitsatz
+Programme erstellen und Module weitermachen/ repitieren
 
-##Arbeitspaket für 05.09.23
+## Arbeitspaket für 05.09.23
 - [ ] Programm zum addieren und subtrahieren von Zahlen
 - [ ] Zahlenraten spiel Rrogramm
 - [ ] Weiterarbeit/repitition M431
