@@ -14,12 +14,10 @@ Ich möchte das *C# Programm* besser verstehen. Zuerst möchte ich vorallem die 
 
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
-- [ ] Begrüssugsprogramm das nach dem Namen fragt und diesen mit "Hallo" wieder ausgibt.
+- [ ] Begrüssugsprogramm das nach dem Namen fragt und diesen mit "Hallo <Name>" wieder ausgibt.
 
-- [ ] Ein Programm das Währungen umrechnen kann.
+- [ ] Programm das die Farbe vom eingegebenen Text ändert.
 
-- [ ] Programm das die Farbe vom eingegebenen Text ändert
-
-- [ ] Programm das einen Text von Deutsch auf Englisch übersetzt.
+- [ ] Repetition Modul319 Variablen
 
 ✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
