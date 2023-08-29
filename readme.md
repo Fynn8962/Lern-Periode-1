@@ -14,10 +14,24 @@ Ich möchte das *C# Programm* besser verstehen. Zuerst möchte ich vorallem die 
 
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
-- [ ] Begrüssugsprogramm das nach dem Namen fragt und diesen mit "Hallo <Name>" wieder ausgibt.
+- [x] Begrüssugsprogramm das nach dem Namen fragt und diesen mit "Hallo <Name>" wieder ausgibt.
 
-- [ ] Programm das die Farbe vom eingegebenen Text ändert.
+- [x] Programm das die Farbe vom eingegebenen Text ändert.
 
 - [ ] Repetition Modul319 Variablen
 
 ✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
+
+Ich konnte zwei von meinen drei zielen abhaken. ich kahm gut voran bei beiden aufgaben die ich mir bearbeitet habe, doch beim Text Farbänderungs Programm gab es gegen Schluss Probleme und als ich diese endlich gelöst hatte wollte ich noch eine kleiner abänderung mache was dan auch noch ein mehr zeit gebraucht hat als ich gedacht habe. Deshalb hat es am Schluss nicht mehr für mein letztes Arbeitspaket gereicht. (67 Wörter)
+
+
+# Grob-Planung
+05.09.23
+
+## Leitsatz
+
+##Arbeitspaket für 05.09.23
+- [ ] Programm zum addieren und subtrahieren von Zahlen
+- [ ] Zahlenraten spiel Rrogramm
+- [ ] Weiterarbeit/repitition M431
+- [ ] Weiterarbeit7repitition M319
