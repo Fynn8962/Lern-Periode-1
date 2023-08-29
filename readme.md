@@ -25,6 +25,8 @@ Ich möchte das *C# Programm* besser verstehen. Zuerst möchte ich vorallem die 
 Ich konnte zwei von meinen drei zielen abhaken. ich kahm gut voran bei beiden aufgaben die ich mir bearbeitet habe, doch beim Text Farbänderungs Programm gab es gegen Schluss Probleme und als ich diese endlich gelöst hatte wollte ich noch eine kleiner abänderung mache was dan auch noch ein mehr zeit gebraucht hat als ich gedacht habe. Deshalb hat es am Schluss nicht mehr für mein letztes Arbeitspaket gereicht. (67 Wörter)
 
 
+
+
 # Grob-Planung
 Für Lektion vom 05.09.23
 
