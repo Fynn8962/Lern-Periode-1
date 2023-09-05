@@ -37,4 +37,18 @@ Programme erstellen und Module weitermachen/ repitieren
 - [ ] Programm zum addieren und subtrahieren von Zahlen
 - [ ] Zahlenraten spiel Rrogramm
 - [ ] Weiterarbeit/repitition M431
-- [ ] Weiterarbeit7repitition M319
+- [x] Weiterarbeit7repitition M319
+
+ich habe mich dazu entschieden mich auf die ePortfolios im Modul319 zu fokusieren da ich dort noch sehr viel zu erledigen hatte. Da ich anfangs ein bischen verstehen musste wie genau ich so ein ePortfolie aufbauen soll hat es anfangs ein bischen gestockt, bis ich dan gut voran kahm.
+
+# Groplanung
+Für Lektion vom 12.09.23
+
+## Leitsatz
+Mit Programmieren beschäftigen
+
+## Arbeitspaket für 12.09.23
+- [ ] Zahlenraten Spiel Programmieren
+- [ ] Einen taschenrechner mit Ganzen und Dezimalzahlen Programmieren
+- [ ] Programm welches Währungen umrechen kann (3-5 arten)
+- [ ] in den Modulen Lernaufträge fertigstellen (falls nötig)
