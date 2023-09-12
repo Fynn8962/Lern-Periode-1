@@ -46,7 +46,19 @@ Für Lektion vom 12.09.23
 Mit Programmieren beschäftigen
 
 ## Arbeitspaket für 12.09.23
-- [ ] Zahlenraten Spiel Programmieren
+- [x] Zahlenraten Spiel Programmieren
 - [ ] Einen taschenrechner mit Ganzen und Dezimalzahlen Programmieren
 - [ ] Programm welches Währungen umrechen kann (3-5 arten)
-- [ ] in den Modulen Lernaufträge fertigstellen (falls nötig)
+- [x] in den Modulen Lernaufträge fertigstellen (falls nötig)
+
+Ich habe eine Programmieraufgabe aus dem Modul 319 fertig gestellt und ein Zahleratenspiel Programmiert. Die Porgrammieruafbae zu Modul 319 hat sehr lange gedauert da ich mehrere Bedingungen erfüllen musste und uach nicht alles reibungslos funktiniert hat. Das Zahlenratenspiel hat dagegen nicht sehr lange gedauert und hat auch sehr Spass gemacht zum programmieren.
+
+# Grobplanung 
+Für Lektion vom 19.09.2023
+
+## Arbeitspaket für 19.09.2023
+- [ ] Modul 319 E-Portfolios erstellen
+- [ ] Modul 431 Aufgaben fertigstellen / Expertenziele bearbeiten
+- [ ] Taschenrechner Programmieren
+- [ ] 
+
