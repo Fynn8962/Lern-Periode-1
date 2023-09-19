@@ -58,7 +58,21 @@ Für Lektion vom 19.09.2023
 
 ## Arbeitspaket für 19.09.2023
 - [ ] Modul 319 E-Portfolios erstellen
-- [ ] Modul 431 Aufgaben fertigstellen / Expertenziele bearbeiten
+- [x] Modul 431 Aufgaben fertigstellen / Expertenziele bearbeiten
 - [ ] Taschenrechner Programmieren
-- [ ] Vokabeltrainer Programmieren
+- [x] Vokabeltrainer Programmieren
+
+Ich habe im Modul 431 die expertenziele die noch noch machen wollte fertig gestellt was sehr rasch und einfach ging. Den rest des LA habe ich einen Vokabeltrainer Programmert. Mit der Zeit wurde meine Idee imer
+komplexer und ich habe immer mehr Möglichkeiten und ausführungen Hinzugefügt. Der Code funktioniert jetzt fast einwandfrei bis auf ein paar anzeigebugs die aber nur die "schönheit" des Codes beeinflussen. Insgesamt war ich heute ser überrascht wie einfach es mir viel den Vokabeltrainer zu Programmiere und ich auch alles umsetzen konnte was ich wollte.
+
+# Grobplanung
+Für Lektion vom 26.09.2023
+
+## Leitsatz
+Programmieren
+
+## Arbeitspakete für 26.09.2023
+- [ ] Taschenrechner Programmieren (Mit Dezimalzahlen und Plus minus)
+- [ ] Modul 319 die vorherigen und neu dazugekommenen E-Portfolios erstellen
+- [ ] Modul 431 im Handlungsziel 4 die Expertenziele abschliessen
 
