@@ -60,5 +60,5 @@ Für Lektion vom 19.09.2023
 - [ ] Modul 319 E-Portfolios erstellen
 - [ ] Modul 431 Aufgaben fertigstellen / Expertenziele bearbeiten
 - [ ] Taschenrechner Programmieren
-- [ ] 
+- [ ] Vokabeltrainer Programmieren
 
