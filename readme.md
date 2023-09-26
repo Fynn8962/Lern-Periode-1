@@ -74,5 +74,7 @@ Programmieren
 ## Arbeitspakete für 26.09.2023
 - [ ] Taschenrechner Programmieren (Mit Dezimalzahlen und Plus minus)
 - [ ] Modul 319 die vorherigen und neu dazugekommenen E-Portfolios erstellen
-- [ ] Modul 431 im Handlungsziel 4 die Expertenziele abschliessen
+- [x] Modul 431 im Handlungsziel 4 die Expertenziele abschliessen
+
+Ich habe im Modul 431 die noch offenen Aufträge von letzter Woche und einige Expertenzile fertiggestellt. Ein Auftrag indem man eine Dokumentationsvorlage machen musste hat sehr lange gedauert was ein wenig zeit Kostete. Die restlichen Aufträgekonte ich gut abarbeiten und hatte wenig Probleme.
 
