@@ -73,5 +73,6 @@ Für Lektion vom 26.09.2023
 Ich habe im Modul 431 die noch offenen Aufträge von letzter Woche und einige Expertenzile fertiggestellt. Ein Auftrag indem man eine Dokumentationsvorlage machen musste hat sehr lange gedauert was ein wenig zeit Kostete. Die restlichen Aufträgekonte ich gut abarbeiten und hatte wenig Probleme.
 
 ## Reflexion
+In den Letzten Wochen im LA habe ich mich sehr weiterentwickelt. Anfangs wusste ich noch nicht viel über programmieren doch mit der Zeit konnte ich die Methoden verinnerlichen uns es wurde immer mehr vertraut damit. Leider musste ich sehr viel an Modulaufträgen arbeiten. Ich konnte mich nicht so viel wie ich wollte auf eigene Projekte fokussieren, weil es mir wichtig war, dass ich nicht zurückfalle bei den Modulaufträgen.  Ich konnte zwar ein paar Programmierprojekte erstellen, die mehr auch sehr halfen die erlernten Methoden zu verinnerlichen, jedoch nicht so viel wie ich wollte. VBVs: Meine Zeit besser einteilen damit ich im LA mehr zeit für Programmierporjekte habe und nicht an Modulaufträgen arbeiten muss.	
 
 
