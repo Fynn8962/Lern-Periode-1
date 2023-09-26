@@ -28,8 +28,6 @@ Ich konnte zwei von meinen drei zielen abhaken. ich kahm gut voran bei beiden au
 # Grob-Planung
 Für Lektion vom 05.09.23
 
-## Leitsatz
-Programme erstellen und Module weitermachen/ repitieren
 
 ## Arbeitspaket für 05.09.23
 - [ ] Programm zum addieren und subtrahieren von Zahlen
@@ -42,8 +40,6 @@ ich habe mich dazu entschieden mich auf die ePortfolios im Modul319 zu fokusiere
 # Groplanung
 Für Lektion vom 12.09.23
 
-## Leitsatz
-Mit Programmieren beschäftigen
 
 ## Arbeitspaket für 12.09.23
 - [x] Zahlenraten Spiel Programmieren
@@ -68,8 +64,6 @@ komplexer und ich habe immer mehr Möglichkeiten und ausführungen Hinzugefügt.
 # Grobplanung
 Für Lektion vom 26.09.2023
 
-## Leitsatz
-Programmieren
 
 ## Arbeitspakete für 26.09.2023
 - [ ] Taschenrechner Programmieren (Mit Dezimalzahlen und Plus minus)
@@ -77,4 +71,7 @@ Programmieren
 - [x] Modul 431 im Handlungsziel 4 die Expertenziele abschliessen
 
 Ich habe im Modul 431 die noch offenen Aufträge von letzter Woche und einige Expertenzile fertiggestellt. Ein Auftrag indem man eine Dokumentationsvorlage machen musste hat sehr lange gedauert was ein wenig zeit Kostete. Die restlichen Aufträgekonte ich gut abarbeiten und hatte wenig Probleme.
+
+## Reflexion
+
 
